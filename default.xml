@@ -4,7 +4,7 @@
 
   <remote  name="aosp"
            revision="refs/tags/android-9.0.0_r8"
-           fetch="https://mirrors.bfsu.edu.cn/git/AOSP" />
+           fetch="https://android.googlesource.com/" />
   
   <default revision="refs/tags/android-9.0.0_r8"
            remote="aosp"
