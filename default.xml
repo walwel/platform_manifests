@@ -4,8 +4,8 @@
 
   <remote  name="aosp"
            revision="refs/tags/android-9.0.0_r61"
-           fetch="https://android.googlesource.com/" />
-
+           fetch="https://aosp.tuna.tsinghua.edu.cn" />
+  
   <default revision="refs/tags/android-9.0.0_r61"
            remote="aosp"
            sync-j="4" />
